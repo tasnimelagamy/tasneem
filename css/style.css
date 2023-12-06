@@ -1,0 +1,24 @@
+html{
+    direction: rtl;
+}
+body{
+  font-family: 'Almari' , sans-serif;
+}
+.navbar{
+    box-shadow: 0 1px 6px rgba(255, 105, 180, 0.638);
+}
+.nav-item{
+    font-size: 20px;
+    font-weight: bold;
+}
+header{
+    min-height: 100vh;
+    background: linear-gradient( #5aa7b4c2,#5AA6B4) , url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+
+
+}
+.mail{
+    direction: rtl;
+}
